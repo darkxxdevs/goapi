@@ -1,7 +1,7 @@
 # API - GOlANG
 
 <p align="left">
-  <img src="https://w7.pngwing.com/pngs/328/329/png-transparent-beak-character-cartoon-others-fictional-character-cartoon-organ-thumbnail.png" alt="Go Logo">
+  <img src="./goimg/go.png" alt="Go Logo">
 </p>
 
 Welcome to the API developed by darkxxdevs . This package provides a simple API for managing and retrieving information about courses. It is built using Go and the Gorilla Mux router.
